@@ -1,0 +1,269 @@
+.navbar-light .navbar-brand {
+    color: rgba(98, 98, 98, 0.9);
+}
+.navbar-brand {
+    font-size: 0.90rem;
+}
+.dropup, .dropright, .dropdown, .dropleft {
+    position: relative;
+    right: -600px;
+    border-right: 2px solid rgb(211, 210, 210);
+    margin-right: 10px;
+    padding-right: 10px;
+}
+a {
+    font-size: 0.95rem;
+    color: rgba(98, 98, 98, 0.9);
+}
+a:hover {
+    color: rgb(223, 177, 117);
+    text-decoration: underline;
+}
+.dropdown-menu{
+    font-size:0.90rem;
+    padding-left: 10px;
+    border-bottom: 3px solid;
+    color: rgb(223, 177, 117);
+}
+.bg-light{
+    background-color: rgb(240, 240, 240) !important;
+    padding: 0.70rem 1rem ;
+}
+
+.bg-light1{
+ background-color: rgb(255, 255, 255);
+ padding: 2.5rem 1rem;
+ border-bottom: 1px solid rgb(195, 195, 195);
+}
+.search{
+    height: 30px;
+    position: absolute;
+    right: 370px;
+    
+}
+.form-control {
+ padding-bottom: 10px;
+ border: 0px;
+ border-radius: 0px;
+ width: 600px;
+ border-bottom: 1px solid rgb(195, 195, 195);
+ position: absolute;
+ left: 400px;
+ bottom: 50px;
+}
+.heart{
+
+    height: 20px;
+    position: absolute;
+    right: 270px;
+}
+.cart{
+    height: 20px;
+    position: absolute;
+    right: 160px;
+}
+.w{
+    position: absolute;
+    right: 210px;
+    top:75px;
+    font-size: 15px;
+    color: rgb(155, 152, 152);
+
+}
+.count{
+    font-size: 13px;
+    border-radius: 10px;
+    position: absolute;
+    text-align: center;
+    right: 240px;
+    width: 20px;
+    height: 20px;
+    top: 58px;
+    background-color: rgb(190, 178, 66);
+    color: lavender;
+}
+.c{
+    position: absolute;
+    right: 100px;
+    top:75px;
+    font-size: 15px;
+    color: rgb(155, 152, 152);
+
+}
+.count1{
+    font-size: 13px;
+    border-radius: 10px;
+    position: absolute;
+    text-align: center;
+    right: 130px;
+    width: 20px;
+    height: 20px;
+    top: 58px;
+    background-color: rgb(190, 178, 66);
+    color: lavender;
+}
+.bg-light3{
+    background-color: rgb(255, 255, 255);
+    padding: 0rem 1rem;
+    height: 40px;
+    border-bottom: 1px solid rgb(195, 195, 195);
+    
+   }
+#navbarDropdownMenuLink{
+    background-color: black;
+    width: 250px;
+    color: rgb(245, 243, 238);
+    position: absolute;
+    top: -12px;
+    left: -500px;
+    list-style: none;
+   
+}
+#navbarDropdownMenuLink:hover{
+    background-color: rgb(223, 177, 117);
+}
+.navbar-nav {
+    position: absolute;
+    right: 500px;
+}
+
+.main{
+    height: 550px;
+    background-color: rgb(240, 240, 240);
+}
+.nav-container{
+    position: absolute;
+    left: 130px;
+    top: 250px;
+    background-color: ivory;
+
+}
+.nav-container2{
+    position: absolute;
+    left: 130px;
+    top: 250px;
+    background-color: ivory;
+}
+
+.row{
+    background-color: rgb(240, 240, 240);
+    width: 100%;
+    font-size: 15px;
+    position: absolute;
+    left: 15px;
+    padding: 0px 160px;
+}
+.icon{
+    position: absolute;
+    left: -20px;
+    top:10px;
+}
+.title1{
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    font-size: 25px;
+}
+.title2{
+    position: absolute;
+    top: 150px;
+    left: 70px;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(223, 177, 117);
+}
+.title3{
+    position: absolute;
+    top: 250px;
+    left: 70px;
+    font-size: 70px;
+    font-weight: bold;
+    color: rgb(223, 177, 117);
+}
+.readmore{
+    position: absolute;
+    top: 350px;
+    left: 70px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+}
+    .readmore:hover{
+    background-color: rgb(223, 177, 117);
+}
+
+.price{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    height: 750px;
+    width: 100%;
+    top: 850px;
+    text-align: center;
+    /* padding: 30px; */
+
+}
+.cat{
+    font-style:italic;
+    font-size:30px;
+    font-weight: lighter;
+}
+ .price .price-box{
+   width: 550px;  
+} 
+#row2{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    padding: 60px;
+} 
+.price .price-box2{
+    width: 200px;
+    position: absolute;
+    left: -560px;
+    top: 300px;
+}
+.price .price-box3{
+    width: 200px;
+    position: absolute;
+    left: -300px;
+    top: 300px;
+}
+#f{
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top:550px;
+    left: 150px;
+}
+#r{
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 270px;
+    left: 680px;
+}
+#l{
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 580px;
+    left: 680px;
+}
+#d{
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 580px;
+    left: 970px;
+}
+.table-price{
+    position: absolute;
+    top: 1600px;
+    text-align: center;
+    width: 100%;
+
+}
